@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/e2eb01e411c39d6563b050af6265d476_ex3_instructions.pdf
+file: /media/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/e2eb01e411c39d6563b050af6265d476_ex3_instructions.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Exercises
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: ex3_instructions.pdf
 uid: e2eb01e4-11c3-9d65-63b0-50af6265d476

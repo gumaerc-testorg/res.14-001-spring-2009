@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/82a626c10f71305634c1c41bf429d7d1_lecture2.pdf
+file: /media/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/82a626c10f71305634c1c41bf429d7d1_lecture2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: lecture2.pdf
 uid: 82a626c1-0f71-3056-34c1-c41bf429d7d1

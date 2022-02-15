@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Syllabus
+parent_type: SupplementalResourceSection
 parent_uid: e4826c12-895f-04b4-99c4-9b98474335e0
 title: Acknowledgements
 uid: dea40e89-90ed-6f9b-9225-9d6a9a81c837
