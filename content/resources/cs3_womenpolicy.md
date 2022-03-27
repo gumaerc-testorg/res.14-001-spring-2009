@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: SupplementalResourceSection
+parent_uid: e3312a7a-ec87-9969-3a28-5e14aaba76b8
 resourcetype: Document
 title: cs3_womenpolicy.pdf
 uid: 75bed171-10fe-de39-0915-45e50b287995

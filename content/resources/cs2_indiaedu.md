@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: SupplementalResourceSection
+parent_uid: e3312a7a-ec87-9969-3a28-5e14aaba76b8
 resourcetype: Document
 title: cs2_indiaedu.pdf
 uid: 453e7754-5282-23d1-aea3-bd4087f337cd

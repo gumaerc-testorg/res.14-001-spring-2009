@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: SupplementalResourceSection
+parent_uid: c719a05a-b4bd-1381-bc3d-bd9ae0ba26fb
 resourcetype: Document
 title: ex3_instructions.pdf
 uid: e2eb01e4-11c3-9d65-63b0-50af6265d476

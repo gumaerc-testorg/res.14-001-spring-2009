@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture slides ([PDF](resources/lecture8 "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '8: Analyzing Data'
 uid: 12e90a4c-a17a-58f4-25b6-f0b8b5c3ad6a
 video_files:

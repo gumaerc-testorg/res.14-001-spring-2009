@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: SupplementalResourceSection
+parent_uid: c719a05a-b4bd-1381-bc3d-bd9ae0ba26fb
 resourcetype: Other
 title: ex3.xls
 uid: 1860031f-0520-79cc-cafb-e89fa198b834

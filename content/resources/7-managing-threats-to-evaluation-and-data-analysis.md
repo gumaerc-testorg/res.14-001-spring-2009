@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture slides ([PDF](resources/lecture7 "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '7: Managing Threats to Evaluation and Data Analysis'
 uid: ca12982a-4e8a-584d-1207-ea7380277eda
 video_files:

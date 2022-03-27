@@ -45,7 +45,7 @@ Data ([XLS]({{< baseurl >}}/resources/ex2_data))
 
 Balsakhi Data ([DTA]({{< baseurl >}}/resources/ex2_balsakhi_data))
 
-Stata ([DO](./resolveuid/f1947482ba33fb6f763de283cee3a0f9))
+Stata ([DO]({{< baseurl >}}/resources/ex2_stata))
 
 
 {{< tdclose >}}

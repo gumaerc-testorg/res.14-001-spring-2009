@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: SupplementalResourceSection
+parent_uid: e3312a7a-ec87-9969-3a28-5e14aaba76b8
 resourcetype: Document
 title: cs1_getoutvote.pdf
 uid: c6cf7882-25c1-7d49-912f-b4c53ed0e4ae
