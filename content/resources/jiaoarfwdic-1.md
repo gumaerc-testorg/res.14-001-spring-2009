@@ -5,6 +5,7 @@ file: /media/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: a473a36f-b504-fa6c-718d-088d54319b66

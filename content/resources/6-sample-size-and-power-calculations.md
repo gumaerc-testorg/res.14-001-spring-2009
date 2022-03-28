@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: Lecture slides ([PDF](resources/lecture6 "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: '6: Sample Size and Power Calculations'
 uid: 798ff858-2dac-9988-54f6-ec4c4ebc0af2
 video_files:

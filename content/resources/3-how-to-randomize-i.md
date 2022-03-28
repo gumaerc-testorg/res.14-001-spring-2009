@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: Lecture slides ([PDF](resources/lecture3 "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: '3: How to Randomize I'
 uid: de24aecc-f734-1d78-6b96-5273e59c4304
 video_files:
