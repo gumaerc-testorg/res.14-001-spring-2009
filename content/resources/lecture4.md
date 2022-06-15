@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/8e37e8bc9da6defc34fa551b28a5310f_lecture4.pdf
+file: /courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/8e37e8bc9da6defc34fa551b28a5310f_lecture4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,6 @@ parent_uid: 1319ffde-d0d1-e1a1-267a-a50f0f912d5d
 resourcetype: Document
 title: lecture4.pdf
 uid: 8e37e8bc-9da6-defc-34fa-551b28a5310f
+video_metadata:
+  youtube_id: null
 ---

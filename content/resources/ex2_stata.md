@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/f1947482ba33fb6f763de283cee3a0f9_ex2_stata.do
+file: /courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/f1947482ba33fb6f763de283cee3a0f9_ex2_stata.do
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
