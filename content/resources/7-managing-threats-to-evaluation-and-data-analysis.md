@@ -40,5 +40,3 @@ video_metadata:
 
 **Instructor:** Michael Kremer
 
-
-

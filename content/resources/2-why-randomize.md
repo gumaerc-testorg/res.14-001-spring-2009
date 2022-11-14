@@ -36,5 +36,3 @@ video_metadata:
 
 **Instructor:** Dan Levy
 
-
-

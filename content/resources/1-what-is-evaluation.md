@@ -41,5 +41,3 @@ video_metadata:
 
 **Instructor:** Rachel Glennerster
 
-
-

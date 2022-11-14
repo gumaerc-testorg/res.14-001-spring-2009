@@ -4,7 +4,7 @@ leftnav:
   url: /pages/syllabus/
   weight: 10
 - identifier: 1319ffde-d0d1-e1a1-267a-a50f0f912d5d
-  name: Lecture Notes
+  name: Lecture Videos
   url: /video_galleries/lecture-notes
   weight: 20
 - identifier: e3312a7a-ec87-9969-3a28-5e14aaba76b8

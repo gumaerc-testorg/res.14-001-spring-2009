@@ -43,5 +43,3 @@ video_metadata:
 
 **Instructor:** Esther Duflo
 
-
-

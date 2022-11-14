@@ -41,5 +41,3 @@ video_metadata:
 
 **Instructor:** Shawn Cole
 
-
-
