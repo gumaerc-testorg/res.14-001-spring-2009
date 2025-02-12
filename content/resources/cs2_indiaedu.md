@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/453e7754528223d1aea3bd4087f337cd_cs2_indiaedu.pdf
+file: /ol-ocw-studio-app/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/453e7754528223d1aea3bd4087f337cd_cs2_indiaedu.pdf
+file_size: 138859
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

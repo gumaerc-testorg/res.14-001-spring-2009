@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/6f3acf096f95ecd843797e2bc5bd49c4_lecture3.pdf
+file: /ol-ocw-studio-app/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/6f3acf096f95ecd843797e2bc5bd49c4_lecture3.pdf
+file_size: 331993
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

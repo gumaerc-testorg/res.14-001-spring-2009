@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/75bed17110fede39091545e50b287995_cs3_womenpolicy.pdf
+file: /ol-ocw-studio-app/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/75bed17110fede39091545e50b287995_cs3_womenpolicy.pdf
+file_size: 285577
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
