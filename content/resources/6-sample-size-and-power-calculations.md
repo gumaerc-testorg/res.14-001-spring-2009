@@ -4,6 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
+file_size: '244327390'
 file_type: ''
 image_metadata:
   caption: ''
