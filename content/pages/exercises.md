@@ -65,7 +65,7 @@ Exercise 3: Sample size calculation with clutstered design ({{% resource_link e2
 
 Exercise 3 ({{% resource_link 1860031f-0520-79cc-cafb-e89fa198b834 "XLS" %}})
 
-[Optimal Design](https://sites.google.com/site/optimaldesignsoftware/home) software is available from the University of Michigan
+{{% resource_link "01be6f34-b984-4012-9ec3-9a9611c379e3" "Optimal Design" %}} software is available from the University of Michigan
 
 
 {{< tdclose >}}
